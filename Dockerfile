@@ -5,9 +5,9 @@ RUN yum -y install \
         perl  \
         gcc  gcc-c++ autoconf  \
         automake make zlib zlib-devel make cmake \
-        gcc gcc-c++ gcc-g77 flex bison file  \
+        gcc gcc-c++ gcc-go flex bison file  \
         libtool libtool-libs autoconf kernel-devel  \
-        patch wget libjpeg libjpeg-devel libpng libpng-devel libpng10 libpng10-devel  \
+        patch wget libjpeg libjpeg-devel libpng libpng-devel libpng12 libpng12-devel  \
         gd gd-devel libxml2 libxml2-devel zlib zlib-devel glib2 glib2-devel  \
         tar bzip2 bzip2-devel libevent libevent-devel ncurses ncurses-devel  \
         curl curl-devel libcurl libcurl-devel e2fsprogs e2fsprogs-devel  \
